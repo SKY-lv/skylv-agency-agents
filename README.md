@@ -1,13 +1,23 @@
-# skylv-agency-agents
+# Agency Agents
 
-agency agents - OpenClaw Skill
+> agency agents - OpenClaw Skill
 
 ## Install
-```
+
+```bash
 openclaw skills install skylv-agency-agents
 ```
 
-## Description
-An OpenClaw skill for agency agents.
+Or from ClawHub:
 
-MIT License © SKY-lv
+```
+https://clawhub.ai/skylv-agency-agents
+```
+
+## About
+
+This skill is part of the [SKY-lv OpenClaw Skills Collection](https://github.com/SKY-lv/awesome-openclaw-skills).
+
+## License
+
+MIT © SKY-lv

@@ -1,7 +1,7 @@
 ---
 name: agency-agents
 slug: skylv-agency-agents
-version: 1.0.0
+version: 1.0.2
 description: "193 AI Expert Agents for OpenClaw. Engineering, Design, Marketing, Product, and China Market specialists. Triggers: agency agents, AI experts, expert roles, ai specialists, 193 agents."
 author: SKY-lv
 license: MIT
